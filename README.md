@@ -76,3 +76,18 @@ Financial institutions face the critical challenge of making loan approval decis
 | **Overall Accuracy** | 68% | Industry-competitive performance |
 
 ### Detailed Classification Report
+
+          precision    recall  f1-score   support
+     0.0       0.89      0.69      0.78     62468
+     1.0       0.35      0.64      0.45     15765
+accuracy                           0.68     78233
+
+
+## 🛠 Installation
+
+### Prerequisites
+- Python 3.8 or higher
+- 8GB+ RAM (recommended for full dataset)
+- CUDA-compatible GPU (optional, for faster training)
+
+
